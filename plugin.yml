@@ -1,0 +1,9 @@
+name: DrugSystem
+author: ArtinHector
+api: 3.0.0
+version: 1.0.0
+main: ArtinHector\DrugSystem\Main
+
+permisions:
+ namos.saghi:
+  default: op
